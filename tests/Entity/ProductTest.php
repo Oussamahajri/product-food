@@ -1,6 +1,6 @@
 <?php
 namespace App\Test\Entity;
-use App\Entity\product;
+use App\Entity\Product;
 use PHPUnit\Framework\TestCase;
 class ProductTest extends TestCase{
 /**
